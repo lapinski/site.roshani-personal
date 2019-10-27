@@ -18,11 +18,11 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Senior Manager"
+  company = "Comcast"
+  company_url = "https://www.comcast.com"
+  location = "Philadelphia, PA"
+  date_start = "2018-01-01"
   date_end = ""
   description = """
   Responsibilities include:
@@ -33,12 +33,39 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
+  title = "Manager"
+  company = "Comcast"
+  company_url = "https://www.comcast.com"
+  location = "Philadelphia, PA"
+  date_start = "2017-01-01"
+  date_end = "2017-12-31"
+  description = """Taught electronic engineering and researched semiconductor physics."""
+
+[[experience]]
+  title = "Engineer III"
+  company = "Comcast"
+  company_url = "https://www.comcast.com"
+  location = "Philadelphia, PA"
   date_start = "2016-01-01"
-  date_end = "2016-12-31"
+  date_end = "2015-12-31"
+  description = """Taught electronic engineering and researched semiconductor physics."""
+
+[[experience]]
+  title = "Engineer II"
+  company = "Comcast"
+  company_url = "https://www.comcast.com"
+  location = "Philadelphia, PA"
+  date_start = "2015-01-01"
+  date_end = "2013-12-31"
+  description = """Taught electronic engineering and researched semiconductor physics."""
+
+[[experience]]
+  title = "Independent Contractor"
+  company = "Independent"
+  company_url = "https://www.comcast.com"
+  location = "Philadelphia, PA"
+  date_start = "2007-01-01"
+  date_end = "2014-12-31"
   description = """Taught electronic engineering and researched semiconductor physics."""
 
 +++
