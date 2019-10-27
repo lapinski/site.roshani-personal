@@ -59,6 +59,10 @@ email: "roshani.lapinski@gmail.com"
 user_groups: []
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a Senior Manager of the DevOps team at Comcast, focusing on delivering consistent quality to our numerous customers through out Comcast.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Recently, the majority of my focus has been on migrating existing tools to the AWS cloud, as well as the complexities of a On-Premise / Cloud hybrid.
+
+Of the tools and platforms I currently manage, some have average transactions that surpass 20 million a day.
+
+Throughout my career as a leader in technology, I have been drawn to the agile work style, which helps to ensure delivery of high quality software, based on the needs of the customer.
